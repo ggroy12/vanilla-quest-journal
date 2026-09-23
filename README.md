@@ -44,8 +44,6 @@ Keep every active and completed task organized, find the character you need, and
 | Italiano | Polski | 日本語 |
 | 简体中文 | 한국어 | |
 
-Character-location descriptions are currently available in English and Russian. Other languages use the English descriptions as a fallback, while the rest of the journal interface remains fully translated.
-
 ## Screenshots
 
 <p align="center">
