@@ -8,7 +8,7 @@
 
 See what each character currently needs, keep important tasks close, and find your way to the person you need to meet.
 
-![Version](https://img.shields.io/badge/version-1.1.0-c58b2a?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.1.1-c58b2a?style=flat-square)
 ![BepInEx](https://img.shields.io/badge/BepInEx-5-5b8c5a?style=flat-square)
 ![License](https://img.shields.io/badge/license-Custom-4b5563?style=flat-square)
 
