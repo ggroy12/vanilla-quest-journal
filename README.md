@@ -8,7 +8,7 @@
 
 See what each character currently needs, keep important tasks close, and find your way to the person you need to meet.
 
-![Version](https://img.shields.io/badge/version-1.1.2-c58b2a?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.1.3-c58b2a?style=flat-square)
 ![BepInEx](https://img.shields.io/badge/BepInEx-5-5b8c5a?style=flat-square)
 ![License](https://img.shields.io/badge/license-Custom-4b5563?style=flat-square)
 
@@ -19,7 +19,7 @@ See what each character currently needs, keep important tasks close, and find yo
 - **Keeps tasks in one familiar place.** The Quests tab sits inside the game's regular menu. Active tasks are grouped by character, and favorites and completed tasks have their own collapsible sections.
 - **Makes room for the task list.** The journal uses more of the native panel, with clearer text and rounded task cards and controls.
 - **Shows the details you need.** Select a task to see its full objective, character portrait, location, availability, and whether its character is currently on the map.
-- **Filters by the six game days.** Choose a day icon to see relevant tasks across all three sections; select it again to clear the filter. The header shows the current day with its game icon and can switch to the number of days lived.
+- **Filters by the six game days.** The day icons run from purple on the left to blue on the right. Choose one to see relevant tasks across all three sections; select it again to clear the filter. The header shows the current day number and its game icon, and can switch to the number of days lived.
 - **Keeps favorites handy.** Mark active tasks as favorites; the mod remembers them in its configuration without changing your game save.
 - **Guides you to characters.** Turn on navigation for a task to follow the game's animated marker toward a reachable character or an entrance leading to their location.
 - **Works with keyboard and controller.** Open or close the journal with `J` by default, or change the shortcut in the mod settings. A controller can move through the journal, scroll its task list, use filters and sections, and activate its buttons.
@@ -28,6 +28,11 @@ See what each character currently needs, keep important tasks close, and find yo
 **Customize the controls:** Press `F1` in game to open BepInEx Configuration Manager, select **Vanilla Quest Journal**, then change **Interface → Open quest journal** for the keyboard shortcut and **Controller → Favorite button / Navigation button** for the gamepad shortcuts. The defaults are `J`, `A`, and `X`, respectively.
 
 The journal reads tasks from the game. It does not add quests or modify save files.
+
+## What's new in 1.1.3
+
+- Corrected the journal's day number and icon to match the game's six-day calendar.
+- Put the day filters in calendar order and slightly enlarged their icons.
 
 ## Screenshots
 
