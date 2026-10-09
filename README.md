@@ -8,7 +8,7 @@
 
 See what each character currently needs, keep important tasks close, and find your way to the person you need to meet.
 
-![Version](https://img.shields.io/badge/version-1.1.3-c58b2a?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.1.4-c58b2a?style=flat-square)
 ![BepInEx](https://img.shields.io/badge/BepInEx-5-5b8c5a?style=flat-square)
 ![License](https://img.shields.io/badge/license-Custom-4b5563?style=flat-square)
 
@@ -29,10 +29,9 @@ See what each character currently needs, keep important tasks close, and find yo
 
 The journal reads tasks from the game. It does not add quests or modify save files.
 
-## What's new in 1.1.3
+## What's new in 1.1.4
 
-- Corrected the journal's day number and icon to match the game's six-day calendar.
-- Put the day filters in calendar order and slightly enlarged their icons.
+- Corrected the cycle day shown in task descriptions and character schedules. The number now matches the calendar symbol: purple is day 1, red is day 2, brown is day 3, green is day 4, the second red symbol is day 5, and blue is day 6.
 
 ## Screenshots
 
